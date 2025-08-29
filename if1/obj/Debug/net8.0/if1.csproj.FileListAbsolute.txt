@@ -1,0 +1,15 @@
+C:\Users\warso\OneDrive\Documents\gang\if1\obj\Debug\net8.0\if1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warso\OneDrive\Documents\gang\if1\obj\Debug\net8.0\if1.AssemblyInfoInputs.cache
+C:\Users\warso\OneDrive\Documents\gang\if1\obj\Debug\net8.0\if1.AssemblyInfo.cs
+C:\Users\warso\OneDrive\Documents\gang\if1\obj\Debug\net8.0\if1.csproj.CoreCompileInputs.cache
+C:\Users\warso\OneDrive\Documents\gang\if1\obj\Debug\net8.0\if1.sourcelink.json
+C:\Users\warso\OneDrive\Documents\gang\if1\bin\Debug\net8.0\if1.exe
+C:\Users\warso\OneDrive\Documents\gang\if1\bin\Debug\net8.0\if1.deps.json
+C:\Users\warso\OneDrive\Documents\gang\if1\bin\Debug\net8.0\if1.runtimeconfig.json
+C:\Users\warso\OneDrive\Documents\gang\if1\bin\Debug\net8.0\if1.dll
+C:\Users\warso\OneDrive\Documents\gang\if1\bin\Debug\net8.0\if1.pdb
+C:\Users\warso\OneDrive\Documents\gang\if1\obj\Debug\net8.0\if1.dll
+C:\Users\warso\OneDrive\Documents\gang\if1\obj\Debug\net8.0\refint\if1.dll
+C:\Users\warso\OneDrive\Documents\gang\if1\obj\Debug\net8.0\if1.pdb
+C:\Users\warso\OneDrive\Documents\gang\if1\obj\Debug\net8.0\if1.genruntimeconfig.cache
+C:\Users\warso\OneDrive\Documents\gang\if1\obj\Debug\net8.0\ref\if1.dll
