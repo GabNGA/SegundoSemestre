@@ -5,7 +5,7 @@ class Program
 {  
     static void Main()
     {  
-        const double distancia = 40.0;
+        const double distancia = 240.0;
         Console.WriteLine("Ingrese la velocidad promedio en km/h: ");
         double velocidad = Convert.ToDouble(Console.ReadLine());
         double tiempo = distancia / velocidad;
